@@ -1,3 +1,4 @@
-# Modify this portfolio
+# Modified off of a template system by Casey Glidewell
 
-Make it your own! 
+Live website can be found at
+caseygprofile.netlify.app
