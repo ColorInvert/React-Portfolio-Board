@@ -1,7 +1,7 @@
 {
     "basic_info": {
-      "description_header": "Hi",
-      "description": "👋 I'm Casey Glidewell. Non-Fictional person for preview purposes :) I'm working with newest front-end frameworks like Angular, React and Vue. What you are seeing now is portfolio template from Code Fellows. If you like this portfolio template, make sure to ⭐ the repository to make it more recognizable for other users. Thank you 💜",
+      "description_header": "Greetings!",
+      "description": "Nice to meet you! My name is Casey Glidewell, and I am a software developer with experience in HTML, CSS, Javascript, Python, and React, along with GameMaker's GML and GML Visual languages. I have experience using Trello, Github,proper git flow and branching management, all of which comes from formal instruction.",
       "section_name": {
         "about": "About me",
         "projects": "Projects",

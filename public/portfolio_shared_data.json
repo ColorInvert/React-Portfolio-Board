@@ -1,17 +1,17 @@
 {
     "basic_info": {
       "name": "Casey Glidewell",
-      "titles": [ "Software Developer" ],
+      "titles": [ "Student at Code Fellows, with experience in git workflows, HTML, CSS, and Javascript, with multiple open source sample webpages, live in Github.\nHobbyist game developer with experience in making and launching freeware games from scratch in Gamemaker, using a mixture of GML Code, and GML Visual." ],
       "social": [
         {
           "name": "github",
-          "url": "https://github.com",
+          "url": "https://github.com/ColorInvert",
           "class": "fab fa-github"
         },
         {
-          "name": "instagram",
-          "url": "https://www.instagram.com",
-          "class": "fab fa-instagram"
+          "name": "Linkedin",
+          "url": "https://www.linkedin.com/in/caseyglidewell/",
+          "class": "fab fa-linkedin"
         }
       ],
       "image": "myProfile.jpg"
