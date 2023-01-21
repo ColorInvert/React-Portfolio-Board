@@ -11,14 +11,14 @@
     },
     "projects": [
       {
-        "title": "Animal Shelter",
-        "startDate": "2020",
-        "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
+        "title": "Nest Defender",
+        "startDate": "2018",
+        "description": "A silly game created in GameMaker Studio, made for a rapid prototyping exercise called \"My First Game Jam Summer 2018.\" \nThe game itself has unusual concepts and design because it was designed completely at the whims of a friend, making up the game's requirements on the spot. This served to give me practice developing something to a client's requirements.\n Made in 22 editor hours over 6 sessions, in two weeks.",
         "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
+          "images/portfolio/nest-defender/p1.jpg",
+          "images/portfolio/nest-defender/p2.jpg"
         ],
-        "url": "",
+        "url": "https://tyclev.itch.io/nest-defender-the-first-the-start-of-an-empire",
         "technologies": [
           {
             "class": "devicon-angularjs-plain",
@@ -35,19 +35,15 @@
         ]
       },
       {
-        "title": "Photography",
-        "startDate": "2018",
-        "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
+        "title": "Code Rivals",
+        "startDate": "2022",
+        "description": "Code Fellows final project for Code 201. A web-playable game where you can create a \"Code Rival\" and battle with famous programmers through history, complete with elemental, and language affinities.",
         "images": [
-          "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg"
+          "images/portfolio/code-rivals/p1.jpg",
+          "images/portfolio/code-rivals/p2.jpg"
         ],
-        "url": "https://github.com",
+        "url": "https://github.com/Code-201-Final-GroupE/code-rivals",
         "technologies": [
-          {
-            "class": "devicon-react-original",
-            "name": "React"
-          },
           {
             "class": "devicon-javascript-plain",
             "name": "JavaScript"
@@ -55,9 +51,9 @@
         ]
       },
       {
-        "title": "3D Object Viewer",
-        "startDate": "2015",
-        "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
+        "title": "PLACEHOLDER",
+        "startDate": "2023",
+        "description": "PLACEHOLDER FOR CODE 301 FINAL PROJECT",
         "images": [
           "images/portfolio/adventure/p1.jpg",
           "images/portfolio/adventure/p2.jpg"
