@@ -77,37 +77,31 @@
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - present",
+        "company": "Code Fellows",
+        "title": "Student",
+        "years": "2020 - present",
         "mainTech": [
-          "Angular 8/9/10"
+          "ReactJS"
         ],
         "technologies": [
-          "REST API",
-          "RxJS",
+          "CSS",
+          "HTML",
           "JavaScript",
-          "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR",
-          "Angular Material"
+          "ReactJS"
         ]
       },
       {
-        "company": "Serros Solutions",
-        "title": "Intern",
-        "years": "01.2018 - 09.2019",
+        "company": "Tyclev Studio",
+        "title": "Sole owner",
+        "years": "2015 - present",
         "mainTech": [
-          "Angular 7/8"
+          "GML Visual"
         ],
         "technologies": [
-          "RxJS",
-          "Django",
-          "PHP",
-          "JavaScript",
-          "DHTMLX Gantt"
+          "GML",
+          "GML Visual",
+          "Python",
+          "Unity"
         ]
       }
     ]
